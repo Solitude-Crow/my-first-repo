@@ -1,2 +1,5 @@
-Five feet apart 
-lorem ipsum dolor ipsum
+Name:Jayps
+Age: 20
+Course: BS Information Systems
+print("Hi Jayps")
+That planet earth turns slowly...
